@@ -1,4 +1,3 @@
-## Internet of Water Github
 
 This is the GitHub page for the [Internet of Water](https://internetofwater.org) project at the Nicholas Institute for Environmental Policy Solutions at [Duke University](https://www.duke.edu). We make a variety of tools to facilitate the opening of water data in United States to lower data-related barriers to sound water policy-making. Tools we are developing on GitHub include:
 
