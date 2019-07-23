@@ -1,8 +1,8 @@
 
 This is the GitHub page for the [Internet of Water](https://internetofwater.org) project at the Nicholas Institute for Environmental Policy Solutions at [Duke University](https://www.duke.edu). We make a variety of tools to facilitate the opening of water data in United States to lower data-related barriers to sound water policy-making. Tools we are developing on GitHub include:
 
-1. Glossary: An ontology of water science, data, and policy-related concepts.
-2. Water Budgeting Framework: An ontology of water budgeting components, estimation methods and models, model parameters, and data sources required to build water budgets.
+1. [Glossary](#Glossary): An ontology of water science, data, and policy-related concepts.
+2. [Water Budget Framework](#Water Budget Framework): An ontology of water budgeting components, estimation methods and models, model parameters, and data sources required to build water budgets.
 
 ## Glossary
 
@@ -15,9 +15,9 @@ The glossary GitHub repository is <https://github.com/internetofwater/glossary>
 The underlying ontology is stored at <https://internetofwater.github.io/Glossary/glossary.ttl>
 
 
-## Water Budgeting Framework
+## Water Budget Framework
 
-The water budgeting framework is an ontology of 5 major concepts:
+The water budget framework is an ontology of 5 major concepts:
 
 1. Water Budgeting Framework Developer: Entities that have developed and published frameworks to estimate water budgets. So far, included developers include the [USGS](www.usgs.gov), [California Department of Water Resources](https://water.ca.gov/), and [Utah Department of Water Resources](https://water.utah.gov/).
 
