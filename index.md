@@ -10,6 +10,8 @@ The glossary is managed with [Protégé](https://protege.stanford.edu) in an ont
 
 The current glossary can be browsed at <https://purl.org/iow/glossary> (currently nonfunctional)
 
+The glossary GitHub repository is <https://github.com/internetofwater/glossary>
+
 The underlying ontology is stored at <https://internetofwater.github.io/Glossary/glossary.ttl>
 
 
@@ -29,6 +31,8 @@ The water budgeting framework is an ontology of 5 major concepts:
 
 
 The water budgeting framework can be browsed at <https://purl.org/iow/WaterBudgetFramework>
+
+The glossary GitHub repository is <https://github.com/internetofwater/WaterBudgetFramework>
 
 The underlying ontology is stored at <https://internetofwater.github.io/WaterBudgetFramework/wbf.ttl>
 
