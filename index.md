@@ -4,7 +4,7 @@ This is the GitHub page for the [Internet of Water](https://internetofwater.org)
 1. [Glossary](#Glossary): An ontology of water science, data, and policy-related concepts.
 2. [Water Budget Framework](#Water Budget Framework): An ontology of water budgeting components, estimation methods and models, model parameters, and data sources required to build water budgets.
 
-## Glossary
+# Glossary
 
 The glossary is managed with [Protégé](https://protege.stanford.edu) in an ontology that assigns URIs to unique concepts corresponding to unique definitions. So, terms with conflicting definitions by different organizations are encoded as unique concepts that have a semantic relationship to the same term, which is a unique concept on its own.
 
@@ -15,7 +15,7 @@ The glossary GitHub repository is <https://github.com/internetofwater/glossary>
 The underlying ontology is stored at <https://internetofwater.github.io/Glossary/glossary.ttl>
 
 
-## Water Budget Framework
+# Water Budget Framework
 
 The water budget framework is an ontology of 5 major concepts:
 
