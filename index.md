@@ -7,17 +7,29 @@ This is the GitHub page for the Internet of Water project at the Nicholas Instit
 
 ## Glossary
 
-The glossary is managed with WebProtégé <https://protege.stanford.edu/> in an ontology that assigns URIs to unique concepts corresponding to unique definitions. So, terms with conflicting definitions by different organizations are encoded as unique concepts that have a semantic relationship to the same term, which is a unique concept on its own.
+The glossary is managed with [Protégé](https://protege.stanford.edu) in an ontology that assigns URIs to unique concepts corresponding to unique definitions. So, terms with conflicting definitions by different organizations are encoded as unique concepts that have a semantic relationship to the same term, which is a unique concept on its own.
 
-The current glossary can be browsed at purl.org/iow/glossary (currently nonfunctional)
+The current glossary can be browsed at <https://purl.org/iow/glossary> (currently nonfunctional)
 
-The underlying ontology is storead at internetofwater.github.io/Glossary/glossary.ttl
+The underlying ontology is stored at <https://internetofwater.github.io/Glossary/glossary.ttl>
 
 
 ## Water Budgeting Framework
 
 The water budgeting framework is an ontology of 5 major concepts:
-1. Water Budgeting Framework Developer: Entities that have developed and published frameworks to estimate water budgets. So far, included developers include the USGS, California Department of Water Resources, and Utah Department of Water Resources.
 
-2.
+1. Water Budgeting Framework Developer: Entities that have developed and published frameworks to estimate water budgets. So far, included developers include the [USGS](www.usgs.gov), [California Department of Water Resources](https://water.ca.gov/), and [Utah Department of Water Resources](https://water.utah.gov/).
+
+2. Water Budget Compenent: The distinct flows of water into, out of, and within a given water budgeting zone.
+
+3. Estimation Methods: The methods documented to be in use in estimating water budget components
+
+4. Parameters: The inputs to estimation methods, generally represented by single variables in an estimating model.
+
+5. Data Resources: Sources of raw or modeled data that have been documented to serve as parameters
+
+
+The water budgeting framework can be browsed at <https://purl.org/iow/WaterBudgetFramework>
+
+The underlying ontology is stored at <https://internetofwater.github.io/WaterBudgetFramework/wbf.ttl>
 
