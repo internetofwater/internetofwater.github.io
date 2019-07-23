@@ -1,6 +1,6 @@
 ## Internet of Water Github
 
-This is the GitHub page for the Internet of Water project at the Nicholas Institute for Environmental Policy Solutions at Duke University. We make a variety of tools to facilitate the opening of water data in United States to lower data-related barriers to sound water policy-making. Tools being developed in this space include:
+This is the GitHub page for the [Internet of Water](https://internetofwater.org) project at the Nicholas Institute for Environmental Policy Solutions at [Duke University](https://www.duke.edu). We make a variety of tools to facilitate the opening of water data in United States to lower data-related barriers to sound water policy-making. Tools we are developing on GitHub include:
 
 1. Glossary: An ontology of water science, data, and policy-related concepts.
 2. Water Budgeting Framework: An ontology of water budgeting components, estimation methods and models, model parameters, and data sources required to build water budgets.
